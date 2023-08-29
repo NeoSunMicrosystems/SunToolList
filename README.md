@@ -75,5 +75,5 @@ Java ME (Micro Edition)
 -----------------------
 ### License 
 
-GPLv3 or later
+The Unlicense
 
